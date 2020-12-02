@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\AtividadeAlunos\obj\Debug\net5.0\AtividadeAlunos.csprojAssemblyReference.cache
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\AtividadeAlunos\obj\Debug\net5.0\AtividadeAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\AtividadeAlunos\obj\Debug\net5.0\AtividadeAlunos.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\AtividadeAlunos\obj\Debug\net5.0\AtividadeAlunos.AssemblyInfo.cs
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\AtividadeAlunos\obj\Debug\net5.0\AtividadeAlunos.csproj.CoreCompileInputs.cache
